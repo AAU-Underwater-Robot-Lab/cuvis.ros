@@ -126,5 +126,5 @@ This section contains additional development goals which will be pursued as time
 - [ ] C++ driver implementation
 - [ ] Integration with Hyper-Drive common HSI ROS library
 - [ ] Add reflectance/radiance calibration measurement
-- [ ] Handle loop interrupts with grace
-- [ ] ROS2 support
+- [*] Handle loop interrupts with grace
+- [*] ROS2 support
